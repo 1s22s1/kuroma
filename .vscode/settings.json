@@ -17,6 +17,7 @@
         "stacktrace": "cpp",
         "regex": "cpp",
         "valarray": "cpp",
-        "chrono": "cpp"
+        "chrono": "cpp",
+        "numeric": "cpp"
     }
 }
